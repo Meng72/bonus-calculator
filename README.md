@@ -5,7 +5,7 @@ create a new array.
 
 #Team
 
--Matt Eng
--Levy Kohout
--Barrett Amsrud
--Laura Abend
+- Matt Eng
+- Levy Kohout
+- Barrett Amsrud
+- Laura Abend
